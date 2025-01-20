@@ -1,4 +1,4 @@
-module goyadisk
+module github.com/energet666/goyadisk
 
 go 1.23.4
 
